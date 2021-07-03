@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gideon777
 - 👀 I’m interested in Website designing
-- 🌱 I’m currently a computer science student in junior year
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on innovative web projects
 - 📫 How to reach me ...oseibonsugideon400@gmail.com
 
