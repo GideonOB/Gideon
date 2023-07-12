@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gideon777
-- 👀 I’m interested in Website designing
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on innovative web projects
+- 👀 I’m interested in Data Science/Analytics
+- 🌱 I've completed 6 out of 8 courses in the Google Data Analytics Professional Certificate program
+- 💞️ I’m looking to collaborate on innovative data science projects
 - 📫 How to reach me ...oseibonsugideon400@gmail.com
 
 <!---
