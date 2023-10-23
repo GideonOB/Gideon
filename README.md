@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gideon
 - 👀 I’m interested in Data Science/Analytics
 - 🌱 I have a professional data analytics certification
-- 💞️ I’m looking to collaborate on innovative data science projects
-- 💞️ I am currently working on a few data analysis projects and I will be uploading them soon
+- 💞️ I’m looking to collaborate on innovative data science / data analysis projects
+- 💞️ I am currently actively looking for a data scientist/analyst role that will allow me to leverage my skills to help the company's growth
 - 📫 How to reach me ...oseibonsugideon400@gmail.com
 
 <!---
